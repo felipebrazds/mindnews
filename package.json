@@ -1,0 +1,16 @@
+{
+  "name": "mindnews",
+  "version": "1.0.0",
+  "description": "Minha caixa de ideias e pensamentos",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
