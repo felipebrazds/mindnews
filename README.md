@@ -1,3 +1,3 @@
 # mindnews
 
-Minha caixa de ideias e pensamentos
+Minha caixa de ideias
